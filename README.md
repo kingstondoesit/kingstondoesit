@@ -1,4 +1,4 @@
-- 👋 Hi! I’m @kingstondoesit, a Technical writer, AI/Tech tool reviewer and prospective AI programmer.
+- 👋 Hi! I’m Kingston, a Technical writer, AI/Tech tool reviewer and prospective AI programmer.
 - 👀 I'm interested in full stack web development, for now*
 - 🌱 I’m currently learning front-end Development, SaaS frameworks + Python
 - 🤝🏽 I’m looking to collaborate on blog starter projects and Technical writing gigs.
