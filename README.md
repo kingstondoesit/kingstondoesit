@@ -1,8 +1,8 @@
 - 👋 Hi! I’m Kingston, a Technical writer, AI/Tech tool reviewer and prospective AI programmer.
 - 👀 I'm interested in full stack web development, for now*
-- 🌱 I’m currently learning front-end development, SaaS frameworks + Python
-- 🤝🏽 I’m looking to collaborate on blog starter projects and Technical writing gigs.
-- 📫 Write anything dev-related to me - kingstondoesitall@gmail.com or on twitter @kingstondoesit. I will read and respond.
+- 🌱 I’m currently learning front-end development, SaaS frameworks + Python.
+- 🤝🏽 I’m looking to collaborate on blog starter projects, writing and review gigs.
+- 📫 Write anything dev-related to me - kingstondoesitall@gmail.com or on [X (formerly known as Twitter)](https://x.com/kingstondoesit). I will read and respond.
 - 🕴🏻 Pronouns: HE/HIM.
 - ⚡ Fun fact: Holds distinction in Engineering. Fortified in mathematics, physics and statics. Have applied mathemical concepts to speed up learning processes (eg. musical instrument, machine part/component quick fix, driving, etc.)
 
