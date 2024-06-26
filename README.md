@@ -1,6 +1,6 @@
-- 👋 Hi! I’m Kingston, a Technical writer, AI/Tech tool reviewer and prospective AI programmer.
+- 👋 Hi! I’m Kingston. I'm a Technical writer, AI/Tech tool reviewer and prospective AI programmer. Happy to connect!
 - 👀 I'm interested in full stack web development, for now*
-- 🌱 I’m currently learning front-end development, SaaS frameworks + Python.
+- 🌱 Currently learning front-end development, SaaS frameworks + Python.
 - 🤝🏽 I’m looking to collaborate on blog starter projects, writing and review gigs.
 - 📫 Write anything dev-related to me - kingstondoesitall@gmail.com or on [X (formerly known as Twitter)](https://x.com/kingstondoesit). I will read and respond.
 - 🕴🏻 Pronouns: HE/HIM.
