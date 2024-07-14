@@ -1,10 +1,11 @@
-- 👋 Hi! I’m Kingston. I'm a Technical writer, AI/Tech tool reviewer and prospective AI programmer... Happy to connect!
-- 👀 I'm interested in full stack web development, for now*
-- 🌱 Currently learning front-end development, SaaS frameworks + Python.
-- 🤝🏽 Also open to collaborations on blog starter projects, tech writing and product reviews.
+- 👋 Hi! I’m Kingston. I'm a Technical documentation enjoyer, AI/Tech tool reviewer, and prospective AI programmer... Happy to connect!
+- 🌱 I'm currently learning SaaS frameworks, Javascript + Python.
+- 🤝🏽 Also open to collaborations on any beginner-level tech documentation/review project.
 - 📫 Write anything dev-related to me - kingstondoesitall@gmail.com or on [X (formerly known as Twitter)](https://x.com/kingstondoesit), I will read and share my thoughts.
 - 🕴🏻 Pronouns: HE/HIM.
-- ⚡ Fun fact: Holds distinction in Engineering. Fortified in mathematics, physics and statics. Have applied mathemical concepts to speed up learning processes (eg. musical instrument, machine part/component quick fix, driving, etc.)
+- ⚡ Fun fact: I make music and play the piano for fun.
+
+- 📚📙Background: Holds distinction in Engineering, Fortified in mathematics, physics, and statics. 
 
 <!---
 kingstondoesit/kingstondoesit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
