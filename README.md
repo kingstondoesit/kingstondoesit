@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I make music and play the piano for fun.
 
   
-- 📚📙Background: Holds distinction in Engineering, Fortified in mathematics, physics, and statics. 
+- 📙 Background: Holds distinction in Engineering, Fortified in mathematics, physics, and statics. 
 
 <!---
 kingstondoesit/kingstondoesit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
