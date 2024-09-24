@@ -2,9 +2,11 @@
 
 - 👋 Hi! I’m **Kingston**. I'm a Technical documentation enjoyer, AI/Tech tool reviewer, and prospective AI programmer... Happy to connect!
 - 🌱 I'm currently learning SaaS frameworks, Javascript + Python.
+
 - 📫 Write anything dev-related to me - kingstondoesitall@gmail.com or on [X (formerly known as Twitter)](https://x.com/kingstondoesit), I will read and share my thoughts.
-- ⚡ Fun fact: I make music and play the piano for fun.
-   
+<!---
+- ⚡ Fun fact: I make music and play the piano for fun. 
+--->  
 - 📙 Background: Holds distinction in Engineering, Fortified in mathematics, physics, and statics.
 
 ---
