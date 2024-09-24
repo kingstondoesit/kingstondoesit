@@ -1,4 +1,6 @@
-- 👋 Hi! I’m Kingston. I'm a Technical documentation enjoyer, AI/Tech tool reviewer, and prospective AI programmer... Happy to connect!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kingstondoesit&label=Profile%20views&color=0e75b6&style=flat" alt="kingstondoesit" /> </p>
+
+- 👋 Hi! I’m **Kingston**. I'm a Technical documentation enjoyer, AI/Tech tool reviewer, and prospective AI programmer... Happy to connect!
 - 🌱 I'm currently learning SaaS frameworks, Javascript + Python.
 - 📫 Write anything dev-related to me - kingstondoesitall@gmail.com or on [X (formerly known as Twitter)](https://x.com/kingstondoesit), I will read and share my thoughts.
 - ⚡ Fun fact: I make music and play the piano for fun.
@@ -16,6 +18,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
 ---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kingstondoesit&show_icons=true&theme=react" alt="kingstondoesit" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingstondoesit&show_icons=true&locale=en&layout=compact" alt="kingstondoesit" /></p>
 
