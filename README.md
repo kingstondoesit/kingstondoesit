@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingstondoesit&label=Profile%20views&color=0e75b6&style=flat" alt="kingstondoesit" /> </p>
 
 - 👋 Hi! I’m **Kingston**. I'm a Technical documentation enjoyer, Web Developer and AI tool reviewer... Happy to connect!
-- 🌱 I'm currently learning SaaS frameworks, Javascript + Python.
+- 🌱 I'm currently learning SaaS frameworks, Typescript + Python.
 
 - 📫 Write anything dev-related to me - kingstondoesitall@gmail.com or on [X (formerly known as Twitter)](https://x.com/kingstondoesit), I will read and share my thoughts.
 <!---
