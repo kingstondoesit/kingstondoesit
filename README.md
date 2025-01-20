@@ -2,7 +2,7 @@
 
 - 👋 Hi! I’m **Kingston**. I'm a Technical documentation enjoyer, Web Developer, and AI tool reviewer... Happy to connect!
 
-- 🌱 I'm an avid learner enthusiastic about SaaS and SaaS frameworks.
+- 🌱 I'm an avid learner particularly curious about SaaS and SaaS frameworks.
 
 - 📫 Write anything dev-related to me - kingstondoesitall@gmail.com or on [X (formerly known as Twitter)](https://x.com/kingstondoesit), I will read and share my thoughts.
 <!---
