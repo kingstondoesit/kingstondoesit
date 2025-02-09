@@ -4,12 +4,14 @@
 
 - 🌱 I'm an avid learner particularly curious about SaaS and SaaS frameworks.
 
-- 📫 Write anything dev-related to me - kingstondoesitall@gmail.com or on [X (formerly known as Twitter)](https://x.com/kingstondoesit), I will read and share my thoughts.
-<!---
-- ⚡ Fun fact: I make music and play the piano for fun. 
---->  
-- 📙 Background: Holds distinction in Engineering, Fortified in mathematics, physics, and statics.
+- ⚒ Currently helping build [mail0.io](https://www.mail0.io/contributors).
 
+- 📫 Write anything dev-related to me - kingstondoesitall@gmail.com or on [X (formerly known as Twitter)](https://x.com/kingstondoesit), I will read and share my thoughts.
+
+<!---
+- ⚡ Fun fact: I make music and play the piano for fun.  
+- 📙 Background: Holds distinction in Engineering, Fortified in mathematics, physics, and statics.
+---> 
 ---
 
 <h3 align="left">Languages and Tools:</h3>
