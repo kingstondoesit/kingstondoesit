@@ -2,7 +2,9 @@
 
 - 👋 Hi! I’m **Kingston**. I'm a Technical documentation enjoyer, Web Developer, and AI tool reviewer... Happy to connect!
 
+<!---
 - 🌱 I'm an avid learner particularly curious about SaaS and SaaS frameworks.
+--->
 
 - ⚒ Currently helping build [mail0.io](https://www.mail0.io/contributors).
 
