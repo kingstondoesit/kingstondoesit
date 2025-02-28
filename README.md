@@ -6,7 +6,7 @@
 - 🌱 I'm an avid learner particularly curious about SaaS and SaaS frameworks.
 --->
 
-- ⚒ Currently helping build [mail0.io](https://www.mail0.io/contributors).
+- ⚒ Currently helping build [0.email](https://www.0.email/contributors).
 
 - 📫 Write anything dev-related to me - kingstondoesitall@gmail.com or on [X (formerly known as Twitter)](https://x.com/kingstondoesit), I will read and share my thoughts.
 
