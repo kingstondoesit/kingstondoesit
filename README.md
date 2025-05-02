@@ -2,13 +2,9 @@
 
 - 👋 Hi! I’m **Kingston**. I'm a Technical documentation enjoyer, Web Developer, and AI tool reviewer... Happy to connect!
 
-<!---
-- 🌱 I'm an avid learner particularly curious about SaaS and SaaS frameworks.
---->
-
 - ⚒ Currently helping build [0.email](https://www.0.email/contributors)
   
-- 📫 Write anything dev-related to me - kingstondoesitall@gmail.com or on [X (formerly known as Twitter)](https://x.com/kingstondoesit), I will read and share my thoughts.
+- 📫 Write anything dev-related to me on [X (formerly known as Twitter)](https://x.com/kingstondoesit) or kingstondoesitall@gmail.com
 
 <!---
 - ⚡ Fun fact: I make music and play the piano for fun.  
@@ -28,11 +24,11 @@
 
 <!---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kingstondoesit&show_icons=true&theme=react" alt="kingstondoesit" /></p>
---->
+---> 
 
 <!---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingstondoesit&show_icons=true&locale=en&layout=compact" alt="kingstondoesit" /></p>
---->
+---> 
 
 <!---
 kingstondoesit/kingstondoesit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
